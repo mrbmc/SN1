@@ -1,0 +1,1 @@
+﻿package com.wcp {	import fl.controls.Button;	import fl.events.Event;	public class MyButton extends Button {		public var effectName:String;		public function MyButton() {			super();		}	}}

@@ -1,0 +1,1 @@
+﻿package com.wcp {	public class Sequencer extends Object {		public function Sequencer() {		}	}}
