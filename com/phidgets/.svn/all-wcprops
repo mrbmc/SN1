@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/rhythmism_pal9100/!svn/ver/1/com/phidgets
+END
+PhidgetInterfaceKit.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/rhythmism_pal9100/!svn/ver/1/com/phidgets/PhidgetInterfaceKit.as
+END
+PhidgetTextLED.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/rhythmism_pal9100/!svn/ver/1/com/phidgets/PhidgetTextLED.as
+END
+PhidgetIR.as
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/rhythmism_pal9100/!svn/ver/1/com/phidgets/PhidgetIR.as
+END
+PhidgetAccelerometer.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/rhythmism_pal9100/!svn/ver/1/com/phidgets/PhidgetAccelerometer.as
+END
+PhidgetManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/rhythmism_pal9100/!svn/ver/1/com/phidgets/PhidgetManager.as
+END
+PhidgetEncoder.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/rhythmism_pal9100/!svn/ver/1/com/phidgets/PhidgetEncoder.as
+END
+Phidget.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/rhythmism_pal9100/!svn/ver/1/com/phidgets/Phidget.as
+END
+MD5.as
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/rhythmism_pal9100/!svn/ver/1/com/phidgets/MD5.as
+END
+PhidgetIRCodeInfo.as
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/rhythmism_pal9100/!svn/ver/1/com/phidgets/PhidgetIRCodeInfo.as
+END
+PhidgetWeightSensor.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/rhythmism_pal9100/!svn/ver/1/com/phidgets/PhidgetWeightSensor.as
+END
+PhidgetServoParameters.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/rhythmism_pal9100/!svn/ver/1/com/phidgets/PhidgetServoParameters.as
+END
+PhidgetStepper.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/rhythmism_pal9100/!svn/ver/1/com/phidgets/PhidgetStepper.as
+END
+PhidgetDictionaryKeyListener.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/rhythmism_pal9100/!svn/ver/1/com/phidgets/PhidgetDictionaryKeyListener.as
+END
+PhidgetAdvancedServo.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/rhythmism_pal9100/!svn/ver/1/com/phidgets/PhidgetAdvancedServo.as
+END
+PhidgetRFID.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/rhythmism_pal9100/!svn/ver/1/com/phidgets/PhidgetRFID.as
+END
+PhidgetTemperatureSensor.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/rhythmism_pal9100/!svn/ver/1/com/phidgets/PhidgetTemperatureSensor.as
+END
+PhidgetSocket.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/rhythmism_pal9100/!svn/ver/1/com/phidgets/PhidgetSocket.as
+END
+PhidgetError.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/rhythmism_pal9100/!svn/ver/1/com/phidgets/PhidgetError.as
+END
+PhidgetSpatialEventData.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/rhythmism_pal9100/!svn/ver/1/com/phidgets/PhidgetSpatialEventData.as
+END
+PhidgetSpatial.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/rhythmism_pal9100/!svn/ver/1/com/phidgets/PhidgetSpatial.as
+END
+PhidgetServo.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/rhythmism_pal9100/!svn/ver/1/com/phidgets/PhidgetServo.as
+END
+PhidgetIRLearnedCode.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/rhythmism_pal9100/!svn/ver/1/com/phidgets/PhidgetIRLearnedCode.as
+END
+PhidgetMotorControl.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/rhythmism_pal9100/!svn/ver/1/com/phidgets/PhidgetMotorControl.as
+END
+PhidgetPHSensor.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/rhythmism_pal9100/!svn/ver/1/com/phidgets/PhidgetPHSensor.as
+END
+PhidgetLED.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/rhythmism_pal9100/!svn/ver/1/com/phidgets/PhidgetLED.as
+END
+PhidgetIRCode.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/rhythmism_pal9100/!svn/ver/1/com/phidgets/PhidgetIRCode.as
+END
+PhidgetDictionary.as
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/rhythmism_pal9100/!svn/ver/1/com/phidgets/PhidgetDictionary.as
+END
+Constants.as
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/rhythmism_pal9100/!svn/ver/1/com/phidgets/Constants.as
+END
+PhidgetTextLCD.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/rhythmism_pal9100/!svn/ver/1/com/phidgets/PhidgetTextLCD.as
+END
